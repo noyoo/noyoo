@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
   <h3>Who are you?</h3>
-  <p>I am a Mechatronic Engineer, currently enrolled in a masters course at AGH UST in Kraków, Poland. I am looking for every opportunity to learn, improve, and broaden my horizons</p>
+  <p>I am a mechatronic engineer, currently enrolled in a masters course at AGH UST in Kraków, Poland. I am looking for every opportunity to learn, improve, and broaden my horizons</p>
 
   <h3>What are you doing?</h3>
   <p>That's a good question! As an active member of AGH Racing - a Formula Student team, I spend most of my time on developing a 4x4 electric race car. In my spare time, I also create widgets for Twitch streamers, and work on some personal projects. Those include:
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   </p>
   
   <h3>What are your skills?</h3>
-  <p>Well, when it comes to programming, I use C, C++, JavaScript, HTML, CSS and MATLAB on an almost daily basis. Apart from that I have a very good knowledge of SOLIDWORKS and Siemens NX. I am currently learning Altium Designer</p>
+  <p>Well, in the world of mechatronics, flexibility is crucial. When it comes to programming, I use C, C++, JavaScript, HTML, CSS and MATLAB on an almost daily basis. Apart from that I have a very good knowledge of SOLIDWORKS Siemens NX and Altium Designer.</p>
   
   <h3>Okay, how can I reach you?</h3>
   <p>Just click the icon!</p>
